@@ -2,9 +2,28 @@
 
 <br>
 
- 
+A closer look into IMDB Top 250 movies. See the audience demographics of IMDB including genders and ages, and how they are related to the ratings of the movies. Also see which directors are making the biggest contribution to top 250 movies.
 
-https://app.powerbi.com/groups/me/reports/91057239-f8bc-4a7a-b947-4f678b0fba01?ctid=723a5a87-f39a-4a22-9247-3fc240c01396&pbi_source=linkShare
+<br>
 
-https://app.powerbi.com/reportEmbed?reportId=91057239-f8bc-4a7a-b947-4f678b0fba01&autoAuth=true&ctid=723a5a87-f39a-4a22-9247-3fc240c01396
+Used Python for web scraping and gather large sets of data. Designed and generated relational database using SQLite. Analyzed and visualized data using Power BI.
+
+**Language:**
+- Python
+
+<br>
+
+**Developer's Tool:**
+- Power BI
+
+<br>
+
+**Technology Used:**
+- SQLite
+- BeautifulSoup
+- Regular Expression
+- Urllib
+
+
+
 
