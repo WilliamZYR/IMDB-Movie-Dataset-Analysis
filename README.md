@@ -8,6 +8,8 @@ A closer look into IMDB Top 250 movies. See the audience demographics of IMDB in
 
 Used Python for web scraping and gather large sets of data. Designed and generated relational database using SQLite. Analyzed and visualized data using Power BI.
 
+<br>
+
 **Language:**
 - Python
 
